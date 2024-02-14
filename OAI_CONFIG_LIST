@@ -1,0 +1,10 @@
+[
+    {
+        "model": "gpt-4-vision-preview",
+        "api_key": "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"
+    },
+    {
+        "model": "gpt-4-1106-preview",
+        "api_key": "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"
+    }
+]
